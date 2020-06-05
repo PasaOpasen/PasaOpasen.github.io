@@ -1,5 +1,7 @@
 # Дмитрий Пасько
 
+**Data Scientist, mathematician, .NET / R / Python / C++ developer**
+
 ИЩУ РАБОТУ НЕОФИЦАЛЬНО ИЛИ МЕНЕЕ ЧЕМ НА 1 СТАВКУ
 
 ## Сфера интересов
@@ -58,20 +60,34 @@
 [Диплом бакалавра](https://github.com/PasaOpasen/Old_Math_Projects/raw/master/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.pdf)
 
 
-## Связь со мной
+## Связь со мной и мои аккаунты
 
 GitHub: https://github.com/PasaOpasen
-Gmail: qtckpuhdsa@gmail.com
-Discord: Пася Опасен#3065
-Telegram: @PasaOpasen
+
+**Gmail**: qtckpuhdsa@gmail.com
+
+**Discord**: Пася Опасен#3065
+
+**Telegram**: @PasaOpasen
+
+**LinkedIn**: https://www.linkedin.com/in/dmitry-pasko-5bb57219b/
+
 Steam: https://steamcommunity.com/id/PasaOpasen
+
 VK: https://vk.com/roman_disease https://vk.com/turbo_dimas
+
 Facebook: https://www.facebook.com/qtckpuhdsa
+
 Instagram: ofdegradation
+
 Kaggle: https://www.kaggle.com/demetrypascal
+
 RPubs: https://rpubs.com/DemetryPascal
+
 NuGet: https://www.nuget.org/profiles/PasaOpasen
+
 PyPi: https://pypi.org/user/PasaOpasen/
+
 StackOverflow: https://stackoverflow.com/users/13119067/Дмитрий-Пасько
 
 
