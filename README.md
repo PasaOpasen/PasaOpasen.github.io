@@ -20,39 +20,45 @@
 
 ## О себе
 
-Окончил "Факультет математики и компьютерных наук" (КубГУ) с красным дипломом (бакалавр), написал несколько книг (социология) https://www.litres.ru/demetriy-paskal/ , спортсмен с большим стажем.
+Окончил *"Факультет математики и компьютерных наук"* (КубГУ) с красным дипломом (бакалавр), написал [несколько книг](https://www.litres.ru/demetriy-paskal/) (социология), спортсмен с большим стажем.
 
----> специализируюсь на создании и реализации мат. методов и моделей, оптимизации вычислений, рефакторинге кода, также умею писать не слишком сложные desktop-приложения, проводить тестирование, полгода назад стал сильно интересоваться Data Science
+* специализируюсь на *создании и реализации мат. методов и моделей, оптимизации вычислений, рефакторинге кода*, также умею писать не слишком сложные desktop-приложения, проводить тестирование, полгода назад стал сильно интересоваться *Data Science*
 
----> senior C# (3 года на C# 7, ООП, ФП, LINQ, дженерики, коллекции, события, асинхронность, параллелизм, контракты, сборка мусора, MathNet Numerics, NUnit, богатый опыт работы с WinForms, есть опыт WPF, хорошо знаю .NET Framework), знаком с F#
+* **senior C#** (3 года на C# 7, ООП, ФП, LINQ, дженерики, коллекции, события, асинхронность, параллелизм, контракты, сборка мусора, MathNet Numerics, NUnit, богатый опыт работы с WinForms, есть опыт WPF, хорошо знаю .NET Framework), знаком с F#
 
----> middle R (больше года практики, tidyverse, data.table, ggvis, plotly, rattle, Rcmdr, R Markdown), есть опыт в R Shiny, Rcpp
+* **middle R** (больше года практики, tidyverse, data.table, ggvis, plotly, rattle, Rcmdr, R Markdown), есть опыт в R Shiny, Rcpp
 
----> немалый опыт в LaTeX
+* немалый опыт в **LaTeX**
 
----> middle SQL, Delphi, 
+* middle SQL, Delphi, 
 
----> middle C++, знаком с Java, D
+* middle C++, знаком с Java, D
 
----> middle Python (numpy, pandas, sklearn)
+* **middle Python (numpy, pandas, sklearn)**
 
----> знаком с JavaScript, TypeScript 
+* знаком с JavaScript, TypeScript 
 
----> Word, Excel, Mathcad, Ai, RStudio, VS / VS Code, Spyder, опытный пользователь Windows
+* Word, Excel, Mathcad, Ai, RStudio, VS / VS Code, Spyder, опытный пользователь Windows
 
----> математика (оптимизация, моделирование, комбинаторные алгоритмы, численные методы, статистика, мат. анализ, линейная алгебра)
+* **высшая математика** (оптимизация, моделирование, комбинаторные алгоритмы, численные методы, статистика, мат. анализ, линейная алгебра)
 
----> машинное обучение (caret, keras, h2o, sklearn, ML.NET)
+* **машинное обучение** (caret, keras, h2o, sklearn, ML.NET)
 
----> грамотный, быстро обучаюсь, имею опыт работы с чужим кодом, общения с иностранцами, чтения документации на английском
+* грамотный, быстро обучаюсь, имею опыт работы с чужим кодом, общения с иностранцами, чтения документации на английском
 
 
-Публикации:
-https://elibrary.ru/item.asp?id=38189363 
-https://www.litres.ru/demetriy-paskal/
-https://rpubs.com/DemetryPascal/
-https://github.com/PasaOpasen/Old_Math_Projects/raw/master/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.pdf
+## Публикации
 
+[Проект о поиске дефектов в однослойных волноводах](https://elibrary.ru/item.asp?id=38189363) 
+
+[Книги по дегенералогии](https://www.litres.ru/demetriy-paskal/)
+
+[Публикации **RPubs**](https://rpubs.com/DemetryPascal/)
+
+[Диплом бакалавра](https://github.com/PasaOpasen/Old_Math_Projects/raw/master/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.pdf)
+
+
+## Связь со мной
 
 GitHub: https://github.com/PasaOpasen
 Gmail: qtckpuhdsa@gmail.com
