@@ -16,25 +16,25 @@
 3. [тренировочный дневник для пауэрлифтеров](https://github.com/PasaOpasen/Powerlifting-training-diary-and-articles)
 4. [приложение для поиска дефектов в однослойных волноводах](https://github.com/PasaOpasen/Search-for-defects-in-plates)
 5. [приложение для перевода сообщений и речи с микрофона/колонок на множество выбранных языков](https://github.com/PasaOpasen/SpeechLogger) с параллельной транскрипцией и т. п. , а [также бот в **Telegram**](https://github.com/PasaOpasen/TranslatorBot) **@multi_translator_bot** со схожим функционалом 
-6. [конвертер grapheme-to-phoneme для фарси](https://github.com/PasaOpasen/PersianG2P)
+6. [конвертер grapheme-to-phoneme для фарси](https://github.com/PasaOpasen/PersianG2P), а [также бот в **Telegram**](https://github.com/PasaOpasen/PersianG2Pbot) **@PersianG2Pbot**, использующий его.
 
 ## О себе
 
-Окончил *"Факультет математики и компьютерных наук"* (КубГУ) с красным дипломом (бакалавр), написал несколько [книг](https://www.litres.ru/demetriy-paskal/) (социология), спортсмен с большим стажем.
+Окончил *"Факультет математики и компьютерных наук"* (КубГУ) с красным дипломом (бакалавр), написал несколько [книг](https://www.litres.ru/demetriy-paskal/) (социология/художественное), спортсмен с большим стажем.
 
-* специализируюсь на *создании и реализации мат. методов и моделей, оптимизации вычислений, рефакторинге кода*, также умею писать не слишком сложные desktop-приложения, проводить тестирование, полгода назад стал сильно интересоваться *Data Science*
+* специализируюсь на *создании и реализации мат. методов и моделей, оптимизации вычислений, рефакторинге кода*, также умею писать не слишком сложные desktop-приложения, ботов, пакеты, проводить тестирование, интересуюсь **Data Science**
 
 * **senior C#** (3 года на C# 7, ООП, ФП, LINQ, дженерики, коллекции, события, асинхронность, параллелизм, контракты, сборка мусора, MathNet Numerics, NUnit, богатый опыт работы с WinForms, есть опыт WPF, хорошо знаю .NET Framework), знаком с F#
 
 * **middle R** (больше года практики, tidyverse, data.table, ggvis, plotly, rattle, Rcmdr, R Markdown), есть опыт в R Shiny, Rcpp
 
-* немалый опыт в **LaTeX**
+* владею **LaTeX**
 
-* middle SQL, Delphi, 
+* middle SQL, Delphi 
 
 * middle C++, знаком с Java, D
 
-* **middle Python (numpy, pandas, sklearn)**
+* **middle Python (numpy, pandas, sklearn, telebot)**
 
 * знаком с JavaScript, TypeScript 
 
