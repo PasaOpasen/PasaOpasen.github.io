@@ -14,7 +14,7 @@
 1. [math library](https://github.com/PasaOpasen/MathClasses) with the implementation of linear algebra algorithms, optimization, integration, etc.
 2. [set of WinForms applications](https://github.com/PasaOpasen/Old_Math_Projects) to demonstrate how the main library methods work
 3. [Powerlifting training diary](https://github.com/PasaOpasen/Powerlifting-training-diary-and-articles)
-4. [application for finding defects in single-layer waveguides](https://github.com/PasaOpasen/Search-for-defects-in-plates)
+4. [application for searching defects on single-layer waveguides](https://github.com/PasaOpasen/Search-for-defects-in-plates)
 5. [application for translating messages and speech from microphone / speakers to a variety of selected languages](https://github.com/PasaOpasen/SpeechLogger), also [**Telegram bot**](https://github.com/PasaOpasen/TranslatorBot) **@multi_translator_bot** with similar functionality
 6. [grapheme-to-phoneme converter for farsi (persian)](https://github.com/PasaOpasen/PersianG2P), also [**Telegram bot**](https://github.com/PasaOpasen/PersianG2Pbot) **@PersianG2Pbot** used it.
 
@@ -47,18 +47,18 @@
 * грамотный, быстро обучаюсь, имею опыт работы с чужим кодом, общения с иностранцами, чтения документации на английском
 
 
-## Публикации
+## PUBLICATIONS
 
-[Проект о поиске дефектов в однослойных волноводах](https://elibrary.ru/item.asp?id=38189363) 
+[Defect searching on single-layer waveguides](https://elibrary.ru/item.asp?id=38189363) 
 
-[Книги по дегенералогии](https://www.litres.ru/demetriy-paskal/)
+[Books about degenaracy](https://www.litres.ru/demetriy-paskal/)
 
-[Публикации **RPubs**](https://rpubs.com/DemetryPascal/)
+[**RPubs** publications](https://rpubs.com/DemetryPascal/)
 
-[Диплом бакалавра](https://github.com/PasaOpasen/Old_Math_Projects/raw/master/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.pdf)
+[Bachelor diploma](https://github.com/PasaOpasen/Old_Math_Projects/raw/master/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.pdf)
 
 
-## Связь со мной и мои аккаунты
+## CONTACTS
 
 GitHub: https://github.com/PasaOpasen
 
@@ -87,7 +87,3 @@ NuGet: https://www.nuget.org/profiles/PasaOpasen
 PyPi: https://pypi.org/user/PasaOpasen/
 
 StackOverflow: https://stackoverflow.com/users/13119067/Дмитрий-Пасько
-
----
-
-Всегда готов к работе менее чем на 1 ставку, удалённой работе, небольшим проектам
