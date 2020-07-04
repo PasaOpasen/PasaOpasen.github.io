@@ -4,7 +4,7 @@
 
 ## Area of interests
 
-* Refactoring and code acceleration (extensive experience in C#, experience in C++, D, and Python)
+* Refactoring and code acceleration (have extensive experience in C#, experience in C++, D, and Python)
 * Implementation/development of mathematical algorithms
 * Data analysis, machine learning (R / Python) https://www.kaggle.com/demetrypascal
 
@@ -20,31 +20,31 @@
 
 ## ABOUT ME
 
-Окончил *"Факультет математики и компьютерных наук"* (КубГУ) с красным дипломом (бакалавр), написал несколько [книг](https://www.litres.ru/demetriy-paskal/) (социология/художественное), спортсмен с большим стажем.
+Graduated from *"Faculty of mathematics and computer science" * (KubSU) with a red diploma (bachelor), wrote several [books] (https://www.litres.ru/demetriy-paskal/) (sociology/art), long-time athlete.
 
-* специализируюсь на *создании и реализации мат. методов и моделей, оптимизации вычислений, рефакторинге кода*, также умею писать не слишком сложные desktop-приложения, ботов, пакеты, проводить тестирование, интересуюсь **Data Science**
+* I specialize in *creating and implementing Mat. methods and models, optimization of calculations, code refactoring*, I can also write not too complex desktop applications, bots, packages, conduct testing, I am interested in **Data Science**
 
-* **senior C#** (3 года на C# 7, ООП, ФП, LINQ, дженерики, коллекции, события, асинхронность, параллелизм, контракты, сборка мусора, MathNet Numerics, NUnit, богатый опыт работы с WinForms, есть опыт WPF, хорошо знаю .NET Framework), знаком с F#
+* **senior C#** (3 years with C# 7, OOP, FP, LINQ, generics, collections, events, asynchrony, parallelism, contracts, garbage collection, MathNet Numerics, NUnit, rich experience with WinForms, have WPF experience, know well .NET Framework), familiar with F#
 
-* **middle R** (больше года практики, tidyverse, data.table, ggvis, plotly, rattle, Rcmdr, R Markdown), есть опыт в R Shiny, Rcpp
+* **middle R** ( tidyverse, data.table, ggvis, plotly, rattle, Rcmdr, R Markdown), have experience with R Shiny, Rcpp
 
-* владею **LaTeX**
+* master **LaTeX**
 
 * middle SQL, Delphi 
 
-* middle C++, знаком с Java, D
+* middle C++, familiar with Java, D
 
 * **middle Python (numpy, pandas, sklearn, telebot)**
 
-* знаком с JavaScript, TypeScript 
+* familiar with JavaScript, TypeScript 
 
-* Word, Excel, Mathcad, Ai, RStudio, VS / VS Code, Spyder, опытный пользователь Windows
+* Word, Excel, Mathcad, Ai, RStudio, VS / VS Code, Spyder, Windows
 
-* **высшая математика** (оптимизация, моделирование, комбинаторные алгоритмы, численные методы, статистика, мат. анализ, линейная алгебра)
+* **higher mathematics** (optimization, modeling, combinatorial algorithms, numerical methods, statistics, mathematical analysis, linear algebra)
 
-* **машинное обучение** (caret, keras, h2o, sklearn, ML.NET)
+* **machine learning** (caret, keras, h2o, sklearn, ML.NET)
 
-* грамотный, быстро обучаюсь, имею опыт работы с чужим кодом, общения с иностранцами, чтения документации на английском
+* I am literate, fast learner, have experience working with someone else's code, communicating with foreigners, reading documentation in English
 
 
 ## PUBLICATIONS
