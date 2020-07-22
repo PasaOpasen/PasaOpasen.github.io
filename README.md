@@ -11,7 +11,7 @@
 
 ## МОИ ОСНОВНЫЕ ПРОЕКТЫ
 
-1. [математическая библиотека](https://github.com/PasaOpasen/MathClasses) с реализацией алгоритмов линейной алгебры, оптимизации, интегрирования и т. п. 
+1. [математическая библиотека](https://github.com/PasaOpasen/MathClasses) с реализацией алгоритмов линейной алгебры, оптимизации, интегрирования и т. п., а также несколько PyPI пакетов, в том числе [реализация метода роя частиц](https://github.com/PasaOpasen/BeehiveMethod)
 2. [набор WinForms приложений](https://github.com/PasaOpasen/Old_Math_Projects) для демонстрации работы основных методов библиотеки 
 3. [тренировочный дневник для пауэрлифтеров](https://github.com/PasaOpasen/Powerlifting-training-diary-and-articles)
 4. [приложение для поиска дефектов в однослойных волноводах](https://github.com/PasaOpasen/Search-for-defects-in-plates)
