@@ -15,13 +15,21 @@
 
 ## МОИ ОСНОВНЫЕ ПРОЕКТЫ
 
+1. [пятикнижие о процессах вырождения в человеческом обществе](https://github.com/PasaOpasen/RomanDisease)
+
 1. [математическая библиотека](https://github.com/PasaOpasen/MathClasses) для .NET с реализацией алгоритмов линейной алгебры, оптимизации, интегрирования и т. п., а также **несколько PyPI пакетов**, в том числе [реализация метода роя частиц](https://github.com/PasaOpasen/BeehiveMethod)
-2. [набор WinForms приложений](https://github.com/PasaOpasen/Old_Math_Projects) для демонстрации работы основных методов библиотеки 
-3. [тренировочный дневник для пауэрлифтеров](https://github.com/PasaOpasen/Powerlifting-training-diary-and-articles)
-4. [приложение для поиска дефектов в однослойных волноводах](https://github.com/PasaOpasen/Search-for-defects-in-plates)
-5. [приложение для перевода сообщений и речи с микрофона/колонок на множество выбранных языков](https://github.com/PasaOpasen/SpeechLogger) с параллельной транскрипцией и т. п. , а [также бот в **Telegram**](https://github.com/PasaOpasen/TranslatorBot) **@multi_translator_bot** со схожим функционалом 
-6. [конвертер grapheme-to-phoneme для фарси](https://github.com/PasaOpasen/PersianG2P), а [также бот в **Telegram**](https://github.com/PasaOpasen/PersianG2Pbot) **@PersianG2Pbot**, использующий его.
-7. [модуль для обнаружения профессиональных/мягких навыков из резюме/вакансии](https://github.com/PasaOpasen/ContentDetector) в рамках Хакатона Труда (лето 2020).
+
+1. [набор WinForms приложений](https://github.com/PasaOpasen/Old_Math_Projects) для демонстрации работы основных методов библиотеки 
+
+1. [тренировочный дневник для пауэрлифтеров](https://github.com/PasaOpasen/Powerlifting-training-diary-and-articles)
+
+1. [приложение для поиска дефектов в однослойных волноводах](https://github.com/PasaOpasen/Search-for-defects-in-plates)
+
+1. [приложение для перевода сообщений и речи с микрофона/колонок на множество выбранных языков](https://github.com/PasaOpasen/SpeechLogger) с параллельной транскрипцией и т. п. , а [также бот в **Telegram**](https://github.com/PasaOpasen/TranslatorBot) **@multi_translator_bot** со схожим функционалом 
+
+1. [конвертер grapheme-to-phoneme для фарси](https://github.com/PasaOpasen/PersianG2P), а [также бот в **Telegram**](https://github.com/PasaOpasen/PersianG2Pbot) **@PersianG2Pbot**, использующий его.
+
+1. [модуль для обнаружения профессиональных/мягких навыков из резюме/вакансии](https://github.com/PasaOpasen/ContentDetector) в рамках Хакатона Труда (лето 2020).
 
 ## О себе
 
