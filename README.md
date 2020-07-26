@@ -2,6 +2,8 @@
 
 **Data Scientist, mathematician, .NET / R / Python / C++ developer**
 
+![1](https://github.com/PasaOpasen/PasaOpasen.github.io/blob/master/images/me.jpg)
+
 ## Сфера интересов
 
 * Рефакторинг и ускорение кода (большой опыт на C#, есть опыт на C++, D и Python)
