@@ -47,7 +47,7 @@
 
 * middle C++, знаком с Java, D
 
-* **middle Python (numpy, pandas, sklearn, telebot и т. п.)**
+* **middle Python (numpy, pandas, sklearn, gensim, telebot)**
 
 * знаком с JavaScript, TypeScript 
 
