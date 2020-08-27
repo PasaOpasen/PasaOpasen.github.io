@@ -71,13 +71,15 @@
 [Диплом бакалавра](https://github.com/PasaOpasen/Old_Math_Projects/raw/master/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.pdf)
 
 
-## Связь со мной и мои аккаунты
+## Связь со мной и мои профили
 
 GitHub: https://github.com/PasaOpasen
 
 **Gmail**: qtckpuhdsa@gmail.com
 
 **Discord**: Пася Опасен#3065
+
+**Skype**: live:qtckpuhdsa_1
 
 **Telegram**: @PasaOpasen
 
