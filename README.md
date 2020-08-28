@@ -113,3 +113,5 @@ NuGet: https://www.nuget.org/profiles/PasaOpasen
 PyPi: https://pypi.org/user/PasaOpasen/
 
 StackOverflow: https://stackoverflow.com/users/13119067/Дмитрий-Пасько
+
+Stepik: https://stepik.org/users/131443167
