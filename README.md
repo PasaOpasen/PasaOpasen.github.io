@@ -2,7 +2,9 @@
 
 **Data Scientist, mathematician, .NET / R / Python / C++ developer**
 
-![1](https://github.com/PasaOpasen/PasaOpasen.github.io/blob/master/images/me.jpg)
+![1](https://github.com/PasaOpasen/PasaOpasen.github.io/blob/master/images/%D1%8F%20%D0%B2%2022%20%D0%B3%D0%BE%D0%B4%D0%B0.jpg)
+
+Другие мои фото: https://github.com/PasaOpasen/PasaOpasen.github.io/tree/master/images
 
 ## Сфера интересов
 
