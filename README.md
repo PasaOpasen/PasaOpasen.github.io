@@ -72,14 +72,15 @@
 
 ## Публикации
 
-[Проект о поиске дефектов в однослойных волноводах](https://elibrary.ru/item.asp?id=38189363) 
+* [Проект о поиске дефектов в однослойных волноводах](https://elibrary.ru/item.asp?id=38189363)
 
-[Книги по дегенералогии](https://www.litres.ru/demetriy-paskal/)
+* [Книги по дегенералогии](https://www.litres.ru/demetriy-paskal/) (о вырождении в человеческом обществе)
 
-[Публикации **RPubs**](https://rpubs.com/DemetryPascal/)
+* [Публикации **RPubs**](https://rpubs.com/DemetryPascal/) (включая магистерскую диссертацию по регрессионным моделями)
 
-[Диплом бакалавра](https://github.com/PasaOpasen/Old_Math_Projects/raw/master/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.pdf)
+* [Диплом бакалавра](https://github.com/PasaOpasen/Old_Math_Projects/raw/master/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.pdf) (мат. физика и численная математика)
 
+* [Kaggle notebooks](https://www.kaggle.com/demetrypascal/notebooks)
 
 ## Связь со мной и мои профили
 
