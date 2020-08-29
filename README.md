@@ -49,11 +49,11 @@
 
 * middle C++, знаком с Java, D
 
-* **middle Python (numpy, pandas, sklearn, gensim, telebot)**
+* **middle Python (numpy, pandas, matplotlib, sklearn, gensim, telebot)**, владею Jupyter
 
 * знаком с JavaScript, TypeScript 
 
-* Word, Excel, Mathcad, Ai, RStudio, VS / VS Code, Spyder, опытный пользователь Windows
+* разбираюсь в Word, Excel, Mathcad, Ai, RStudio, VS / VS Code, Spyder, Windows
 
 * **высшая математика** (оптимизация, моделирование, комбинаторные алгоритмы, численные методы, статистика, мат. анализ, линейная алгебра)
 
