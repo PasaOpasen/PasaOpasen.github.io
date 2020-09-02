@@ -92,7 +92,7 @@ GitHub: https://github.com/PasaOpasen
 
 **Skype**: live:qtckpuhdsa_1
 
-**Telegram**: @PasaOpasen
+**Telegram**: @PasaOpasen (рабочий @DimaAnalPunisher)
 
 **LinkedIn**: https://www.linkedin.com/in/dmitry-pasko-5bb57219b/
 
