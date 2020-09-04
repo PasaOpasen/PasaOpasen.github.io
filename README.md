@@ -10,7 +10,7 @@
 
 * Рефакторинг и ускорение кода (большой опыт на C#, есть опыт на C++, D и Python)
 * Реализация/разработка мат. алгоритмов
-* Анализ данных, машинное обучение (R / Python) https://www.kaggle.com/demetrypascal, особый упор делаю на предобработку данных, статистическое обучение и методы поверхностного обучения
+* Анализ данных, машинное обучение (R / Python) https://www.kaggle.com/demetrypascal, особый упор делаю на предобработку данных, статистическое обучение и методы поверхностного обучения, хорошо делаю визуализации
 
 Больше всего хочу участвовать в технологическом развитии человечества: создавать алгоритмы для решения реальных задач, развивать искуственный интеллект и делать его доступнее для людей.
 
@@ -41,7 +41,7 @@
 
 * **senior C#** (работаю с C# 7 и ранними версиями с начала 2017-го, знаю ООП, ФП, LINQ, дженерики, коллекции, события, асинхронность, параллелизм, контракты, сборка мусора, MathNet Numerics, NUnit, богатый опыт работы с WinForms, есть опыт WPF, хорошо знаю .NET Framework), знаком с F#
 
-* **middle R** (активно использую R c середины 2019-го, знаю tidyverse, data.table, ggvis, plotly, rattle, Rcmdr, R Markdown), есть опыт в R Shiny, Rcpp
+* **senior R** (активно использую R c середины 2019-го, знаю tidyverse, data.table, ggvis, plotly, rattle, Rcmdr, R Markdown), есть опыт в R Shiny, Rcpp
 
 * владею **LaTeX**
 
@@ -49,7 +49,7 @@
 
 * middle C++, знаком с Java, D
 
-* **middle Python (numpy, pandas, matplotlib, sklearn, gensim, telebot)**, владею Jupyter
+* **middle Python (numpy, pandas, matplotlib, sklearn, gensim, sympy, telebot)**, владею Jupyter
 
 * знаком с JavaScript, TypeScript 
 
