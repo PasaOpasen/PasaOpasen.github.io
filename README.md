@@ -49,6 +49,11 @@
 
 1. [музыкальные произведения на синтезаторе](https://github.com/PasaOpasen/RomanDisease/tree/master/музыка%20из%20моих%20снов) и [реп](https://github.com/PasaOpasen/RomanDisease/tree/master/тупые%20песни%20и%20стихи)(не для слабонервных)
 
+## ЗАКРЫТЫЕ ПРОЕКТЫ
+
+* с сентября 2020-го разрабатываю всякие интересные алгоритмы для [Nutrient Planner](https://nplanner.ru/o-nas/)
+
+
 
 ## Подробнее о себе
 
