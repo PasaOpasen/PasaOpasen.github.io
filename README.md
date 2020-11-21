@@ -2,7 +2,7 @@
 
 **Научный программист (Data Science, Machine Learning, .NET / R / Python, математика)**
 
-![1](https://github.com/PasaOpasen/PasaOpasen.github.io/blob/master/images/%D1%8F%20%D0%B2%2023%20%D0%B2%20%D0%B1%D0%BB%D0%B0%D1%82%D0%BD%D0%BE%D0%B9%20%D0%BC%D0%B0%D0%B9%D0%BA%D0%B5.jpg)
+![1](https://github.com/PasaOpasen/PasaOpasen.github.io/blob/master/images/MyCollages%202.png)
 
 Другие мои фото: https://github.com/PasaOpasen/PasaOpasen.github.io/tree/master/images
 
