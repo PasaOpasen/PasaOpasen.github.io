@@ -47,7 +47,7 @@
 
 1. [модуль для обнаружения профессиональных/мягких навыков из резюме/вакансии](https://github.com/PasaOpasen/ContentDetector) в рамках Хакатона Труда (лето 2020). Через месяц развивал [аналогичную модель](https://github.com/PasaOpasen/SberOnline-AK) в рамках соревнования **Sber Online**.
 
-1. [музыкальные произведения на синтезаторе](https://github.com/PasaOpasen/RomanDisease/tree/master/музыка%20из%20моих%20снов) и [реп](https://github.com/PasaOpasen/RomanDisease/tree/master/тупые%20песни%20и%20стихи)(не для слабонервных)
+1. [музыкальные произведения на синтезаторе](https://gitlab.com/PasaOpasen/pasa-opasen-music/-/tree/master/Piano) и [реп](https://gitlab.com/PasaOpasen/pasa-opasen-music/-/tree/master/Shit%20rap) (не для слабонервных)
 
 ## ЗАКРЫТЫЕ ПРОЕКТЫ
 
