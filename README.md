@@ -34,15 +34,15 @@
 
 1. [пятикнижие о процессах вырождения в человеческом обществе](https://github.com/PasaOpasen/RomanDisease)
 
-1. [математическая библиотека](https://github.com/PasaOpasen/MathClasses) для .NET с реализацией алгоритмов линейной алгебры, оптимизации, интегрирования и т. п., а также **несколько математических PyPI пакетов**, в том числе 
+1. [математическая библиотека](https://github.com/PasaOpasen/MathClasses) для .NET с реализацией алгоритмов линейной алгебры, оптимизации, интегрирования и т. д., а также **несколько математических PyPI пакетов**, в том числе 
    * [реализация метода роя частиц](https://github.com/PasaOpasen/BeehiveMethod)
    * [реализация базовых генетических алгоритмов](https://github.com/PasaOpasen/geneticalgorithm2)
 
 1. [набор WinForms приложений](https://github.com/PasaOpasen/Old_Math_Projects) для демонстрации работы основных методов .NET-библиотеки 
 
-1. [тренировочный дневник для пауэрлифтеров](https://github.com/PasaOpasen/Powerlifting-training-diary-and-articles)
+1. [тренировочный дневник для пауэрлифтеров](https://github.com/PasaOpasen/Powerlifting-training-diary-and-articles) (сам пауэрлифтер)
 
-1. [приложение для поиска дефектов в однослойных волноводах](https://github.com/PasaOpasen/Search-for-defects-in-plates)
+1. [приложение для поиска дефектов в однослойных волноводах](https://github.com/PasaOpasen/Search-for-defects-in-plates) (итог моей работы в [ИММИ](http://immi.kubsu.ru/ru/about/))
 
 1. [приложение для перевода сообщений и речи с микрофона/колонок на множество выбранных языков](https://github.com/PasaOpasen/SpeechLogger) с параллельной транскрипцией и т. п. , а [также бот в **Telegram**](https://github.com/PasaOpasen/TranslatorBot) **@multi_translator_bot** со схожим функционалом 
 
@@ -54,7 +54,7 @@
 
 ## ЗАКРЫТЫЕ ПРОЕКТЫ
 
-* с сентября 2020-го разрабатываю всякие интересные алгоритмы в команде [Nutrient Planner](https://nplanner.ru/o-nas/)
+* с сентября 2020-го разрабатываю всякие интересные AI-алгоритмы в команде [Nutrient Planner](https://nplanner.ru/o-nas/)
 
 
 
@@ -149,7 +149,7 @@ Stepik: https://stepik.org/users/131443167
 * IQ 120
 * Прочёл более 300 книг
 * Занимаюсь пауэрлифтингом и фитнесом с 12 лет, делаю выход на две 10 раз подряд на изи (и это далеко не всё)
-* На базовом уровне знаю немецкий и персидский
+* На базовом уровне знаю немецкий и фарси
 * Пишу классные произведения, но их никто не читает
 * Пою крутой реп, но получается не круто
 * Не умею общаться с девушками, но ебу как мотоблок
