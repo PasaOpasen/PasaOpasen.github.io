@@ -57,6 +57,9 @@
 
 * с сентября 2020-го разрабатываю всякие интересные AI-алгоритмы в команде [Nutrient Planner](https://nplanner.ru/o-nas/)
 
+## Признание ML-сообществом
+
+* мою крутейшую нейронную сеть (**2-heads ResNet**) отметили победители соревнования [Mechanisms of Action (MoA) Prediction](https://www.kaggle.com/c/lish-moa/discussion/201510)
 
 
 ## Подробнее о себе
