@@ -34,7 +34,9 @@
 
 1. [пятикнижие о процессах вырождения в человеческом обществе](https://github.com/PasaOpasen/RomanDisease)
 
-1. [математическая библиотека](https://github.com/PasaOpasen/MathClasses) для .NET с реализацией алгоритмов линейной алгебры, оптимизации, интегрирования и т. д., а также **несколько математических PyPI пакетов**, в том числе 
+1. [математическая библиотека](https://github.com/PasaOpasen/MathClasses) для .NET с реализацией алгоритмов линейной алгебры, оптимизации, интегрирования и т. д.
+
+1. **несколько математических PyPI пакетов**, в том числе 
    * [крутая реализация восхождения по холму для дискретных задач](https://github.com/PasaOpasen/DiscreteHillClimbing)
    * [гибкая реализация симулирования закаливания](https://github.com/PasaOpasen/SimplestSimulatedAnnealing)
    * [реализация метода роя частиц](https://github.com/PasaOpasen/BeehiveMethod)
