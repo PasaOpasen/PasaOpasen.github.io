@@ -1,7 +1,7 @@
 # Дмитрий Пасько
 [![Gitter](https://badges.gitter.im/PasaOpasen/community.svg)](https://gitter.im/PasaOpasen/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-**Научный программист (Data Science, Machine Learning, .NET / R / Python, математика)**
+**Научный программист (специалист по Data Science, Machine Learning, математике и оптимизации кода)**
 
 ![1](https://github.com/PasaOpasen/PasaOpasen.github.io/blob/master/images/MyCollages%202.png)
 
