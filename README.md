@@ -37,10 +37,10 @@
 1. [математическая библиотека](https://github.com/PasaOpasen/MathClasses) для .NET с реализацией алгоритмов линейной алгебры, оптимизации, интегрирования и т. д.
 
 1. **несколько математических PyPI пакетов**, в том числе 
-   * [крутая реализация восхождения по холму для дискретных задач](https://github.com/PasaOpasen/DiscreteHillClimbing)
-   * [гибкая реализация симулирования закаливания](https://github.com/PasaOpasen/SimplestSimulatedAnnealing)
-   * [реализация метода роя частиц](https://github.com/PasaOpasen/BeehiveMethod)
-   * [очень гибкая реализация базовых генетических алгоритмов](https://github.com/PasaOpasen/geneticalgorithm2)
+   * [крутая реализация восхождения по холму для дискретных задач](https://github.com/PasaOpasen/DiscreteHillClimbing) [![Downloads](https://pepy.tech/badge/discretehillclimbing)](https://pepy.tech/project/discretehillclimbing) [![Downloads](https://pepy.tech/badge/discretehillclimbing/month)](https://pepy.tech/project/discretehillclimbing)
+   * [гибкая реализация симулирования закаливания](https://github.com/PasaOpasen/SimplestSimulatedAnnealing) [![Downloads](https://pepy.tech/badge/simplestsimulatedannealing)](https://pepy.tech/project/simplestsimulatedannealing) [![Downloads](https://pepy.tech/badge/simplestsimulatedannealing/month)](https://pepy.tech/project/simplestsimulatedannealing)
+   * [реализация метода роя частиц](https://github.com/PasaOpasen/BeehiveMethod) [![Downloads](https://pepy.tech/badge/beehiveoptimization)](https://pepy.tech/project/beehiveoptimization) [![Downloads](https://pepy.tech/badge/beehiveoptimization/month)](https://pepy.tech/project/beehiveoptimization)
+   * [очень гибкая реализация базовых генетических алгоритмов](https://github.com/PasaOpasen/geneticalgorithm2) [![Downloads](https://pepy.tech/badge/geneticalgorithm2)](https://pepy.tech/project/geneticalgorithm2) [![Downloads](https://pepy.tech/badge/geneticalgorithm2/month)](https://pepy.tech/project/geneticalgorithm2)
    * [набор операторов для оппозиционного обучения + инициализаторы популяций](https://github.com/PasaOpasen/opp-op-pop-init)
 
 1. [набор WinForms приложений](https://github.com/PasaOpasen/Old_Math_Projects) для демонстрации работы основных методов .NET-библиотеки 
