@@ -41,6 +41,7 @@
    * [гибкая реализация симулирования закаливания](https://github.com/PasaOpasen/SimplestSimulatedAnnealing)
    * [реализация метода роя частиц](https://github.com/PasaOpasen/BeehiveMethod)
    * [очень гибкая реализация базовых генетических алгоритмов](https://github.com/PasaOpasen/geneticalgorithm2)
+   * [набор операторов для оппозиционного обучения + инициализацторы популяций](https://github.com/PasaOpasen/opp-op-pop-init)
 
 1. [набор WinForms приложений](https://github.com/PasaOpasen/Old_Math_Projects) для демонстрации работы основных методов .NET-библиотеки 
 
