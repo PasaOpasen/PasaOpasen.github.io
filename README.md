@@ -42,6 +42,7 @@
    * [реализация метода роя частиц](https://github.com/PasaOpasen/BeehiveMethod) [![Downloads](https://pepy.tech/badge/beehiveoptimization)](https://pepy.tech/project/beehiveoptimization) [![Downloads](https://pepy.tech/badge/beehiveoptimization/month)](https://pepy.tech/project/beehiveoptimization)
    * [очень гибкая реализация базовых генетических алгоритмов](https://github.com/PasaOpasen/geneticalgorithm2) [![Downloads](https://pepy.tech/badge/geneticalgorithm2)](https://pepy.tech/project/geneticalgorithm2) [![Downloads](https://pepy.tech/badge/geneticalgorithm2/month)](https://pepy.tech/project/geneticalgorithm2)
    * [набор операторов для оппозиционного обучения + инициализаторы популяций](https://github.com/PasaOpasen/opp-op-pop-init) [![Downloads](https://pepy.tech/badge/oppoppopinit)](https://pepy.tech/project/oppoppopinit) [![Downloads](https://pepy.tech/badge/oppoppopinit/month)](https://pepy.tech/project/oppoppopinit)
+   * [тестовые оптимизационные функции и трансформаторы](https://github.com/PasaOpasen/OptimizationTestFunctions) [![Downloads](https://pepy.tech/badge/optimizationtestfunctions)](https://pepy.tech/project/optimizationtestfunctions) [![Downloads](https://pepy.tech/badge/optimizationtestfunctions/month)](https://pepy.tech/project/optimizationtestfunctions)
 
 1. [набор WinForms приложений](https://github.com/PasaOpasen/Old_Math_Projects) для демонстрации работы основных методов .NET-библиотеки 
 
