@@ -3,7 +3,18 @@
 
 **Научный программист (специалист по Data Science, Machine Learning, математике и оптимизации кода)**
 
-![1](https://github.com/PasaOpasen/PasaOpasen.github.io/blob/master/images/MyCollages%202.png)
+- [Дмитрий Пасько](#дмитрий-пасько)
+  - [Сфера интересов](#сфера-интересов)
+  - [МОИ ОСНОВНЫЕ (открытые) ПРОЕКТЫ](#мои-основные-открытые-проекты)
+  - [ЗАКРЫТЫЕ ПРОЕКТЫ](#закрытые-проекты)
+  - [Признание ML-сообществом](#признание-ml-сообществом)
+  - [Подробнее о себе](#подробнее-о-себе)
+  - [Чем обычно занят](#чем-обычно-занят)
+  - [Публикации](#публикации)
+  - [Связь со мной и мои профили](#связь-со-мной-и-мои-профили)
+  - [Интересные факты обо мне](#интересные-факты-обо-мне)
+
+![](images/MyCollages%202.png)
 
 Другие мои фото: https://github.com/PasaOpasen/PasaOpasen.github.io/tree/master/images
 
@@ -11,7 +22,7 @@
 
 * **Анализ данных + машинное обучение** (R / Python), [Kaggle Expert](https://www.kaggle.com/demetrypascal), особый упор делаю на 
   * предобработку данных, 
-  * статистическое обучение и 
+  * статистическое обучение, 
   * методы поверхностного обучения, 
   * хорошо делаю визуализации, 
   * увлекаюсь NLP, 
@@ -23,18 +34,19 @@
   * контроля типов, 
   * jit-компиляции (и оптимизаций для jit-компилятора), 
   * сборки мусора, 
-  * параллеллизма и т. д., 
+  * параллелизма
+  * сложных штук типа вычислений на этапе компиляции или создания узких локальных функций до запуска крупных задач и т. д., 
   * устранение утечек памяти и работа с горячими точками 
 * **Оптимизационные алгоритмы**. *Реализация/разработка мат. алгоритмов* для решения конкретных задач; как правило, это **эволюционные алгоритмы**
 
-Больше всего хочу участвовать в технологическом развитии человечества: создавать алгоритмы для решения реальных задач, развивать искуственный интеллект и делать его доступнее для людей.
+Больше всего хочу участвовать в технологическом развитии человечества: создавать алгоритмы для решения реальных задач, развивать искуcственный интеллект и делать его доступнее для людей.
 
 
 ## МОИ ОСНОВНЫЕ (открытые) ПРОЕКТЫ
 
 1. [пятикнижие о процессах вырождения в человеческом обществе](https://github.com/PasaOpasen/RomanDisease)
 
-1. [математическая библиотека](https://github.com/PasaOpasen/MathClasses) для .NET с реализацией алгоритмов линейной алгебры, оптимизации, интегрирования и т. д.
+1. [математическая библиотека для .NET](https://github.com/PasaOpasen/MathClasses) с реализацией алгоритмов линейной алгебры, оптимизации, интегрирования и т. д.
 
 1. **несколько математических PyPI пакетов**, в том числе 
    * [крутая реализация восхождения по холму для дискретных задач](https://github.com/PasaOpasen/DiscreteHillClimbing) [![Downloads](https://pepy.tech/badge/discretehillclimbing)](https://pepy.tech/project/discretehillclimbing) [![Downloads](https://pepy.tech/badge/discretehillclimbing/month)](https://pepy.tech/project/discretehillclimbing)
@@ -55,9 +67,9 @@
 
 1. [конвертер grapheme-to-phoneme для фарси](https://github.com/PasaOpasen/PersianG2P), а [также бот в **Telegram**](https://github.com/PasaOpasen/PersianG2Pbot) **@PersianG2Pbot**, использующий его.
 
-1. [модуль для обнаружения профессиональных/мягких навыков из резюме/вакансии](https://github.com/PasaOpasen/ContentDetector) в рамках Хакатона Труда (лето 2020). Через месяц развивал [аналогичную модель](https://github.com/PasaOpasen/SberOnline-AK) в рамках соревнования **Sber Online**.
+1. [модуль для обнаружения профессиональных/мягких навыков из резюме/вакансии](https://github.com/PasaOpasen/ContentDetector) в рамках **Хакатона Труда** (лето 2020). Через месяц развивал [аналогичную модель](https://github.com/PasaOpasen/SberOnline-AK) в рамках соревнования **Sber Online**.
 
-1. [музыкальные произведения на синтезаторе](https://gitlab.com/PasaOpasen/pasa-opasen-music/-/tree/master/Piano) и [реп](https://gitlab.com/PasaOpasen/pasa-opasen-music/-/tree/master/Shit%20rap) (не для слабонервных)
+2. [музыкальные произведения на синтезаторе](https://gitlab.com/PasaOpasen/pasa-opasen-music/-/tree/master/Piano) и [реп](https://gitlab.com/PasaOpasen/pasa-opasen-music/-/tree/master/Shit%20rap)
 
 ## ЗАКРЫТЫЕ ПРОЕКТЫ
 
@@ -78,15 +90,15 @@
 
 * **senior R** (активно использую R c середины 2019-го, знаю tidyverse, data.table, ggvis, plotly, rattle, Rcmdr, R Markdown), есть опыт с R Shiny, Rcpp
 
-* **middle Python (очень активно использую с начала 2020-го, хорошо знаю numpy, pandas, matplotlib, sklearn, gensim, sympy, numba, telebot)**, владею Jupyter
+* **middle Python** (очень активно использую с начала 2020-го, хорошо знаю numpy, pandas, matplotlib, sklearn, gensim, sympy, numba, telebot), владею Jupyter
 
 * middle SQL, Delphi, есть опыт с MySQL; если в приложении нужно делать запросы к БД, использовать джойны и т. п. — это не проблема  
 
 * middle C++, небольшой опыт с Java, D
 
-* знаком с JavaScript, TypeScript, Matlab и многими другими языками 
+* владею **LaTeX** и **Markdown**
 
-* владею **LaTeX**, **Markdown**
+* знаком с JavaScript, TypeScript, Matlab и многими другими языками 
 
 * разбираюсь в Word, Excel, Mathcad, Ai, VS / VS Code, RStudio, Spyder, Windows
 
