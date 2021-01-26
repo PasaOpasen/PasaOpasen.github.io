@@ -69,7 +69,11 @@
 
 1. [модуль для обнаружения профессиональных/мягких навыков из резюме/вакансии](https://github.com/PasaOpasen/ContentDetector) в рамках **Хакатона Труда** (лето 2020). Через месяц развивал [аналогичную модель](https://github.com/PasaOpasen/SberOnline-AK) в рамках соревнования **Sber Online**.
 
-2. [музыкальные произведения на синтезаторе](https://gitlab.com/PasaOpasen/pasa-opasen-music/-/tree/master/Piano) и [реп](https://gitlab.com/PasaOpasen/pasa-opasen-music/-/tree/master/Shit%20rap)
+1. [музыкальные произведения на синтезаторе](https://gitlab.com/PasaOpasen/pasa-opasen-music/-/tree/master/Piano) и [реп](https://gitlab.com/PasaOpasen/pasa-opasen-music/-/tree/master/Shit%20rap)
+
+1. Другие пакеты:
+  * [полезные функции для python](https://github.com/PasaOpasen/true-false-python) [![Downloads](https://pepy.tech/badge/truefalsepython)](https://pepy.tech/project/truefalsepython) [![Downloads](https://pepy.tech/badge/truefalsepython/month)](https://pepy.tech/project/truefalsepython) [![Downloads](https://pepy.tech/badge/truefalsepython/week)](https://pepy.tech/project/truefalsepython)
+  * [пайплайновый токенизатор с разными стеммерами и лемматизаторами, основанный на моей идее разбиения токенов](https://github.com/PasaOpasen/Stem-Lem-Pipeline) [![Downloads](https://pepy.tech/badge/stemlempipe)](https://pepy.tech/project/stemlempipe) [![Downloads](https://pepy.tech/badge/stemlempipe/month)](https://pepy.tech/project/stemlempipe) [![Downloads](https://pepy.tech/badge/stemlempipe/week)](https://pepy.tech/project/stemlempipe)
 
 ## ЗАКРЫТЫЕ ПРОЕКТЫ
 
