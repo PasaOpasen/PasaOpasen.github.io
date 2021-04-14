@@ -14,9 +14,9 @@
   - [Связь со мной и мои профили](#связь-со-мной-и-мои-профили)
   - [Интересные(?) факты обо мне](#интересные-факты-обо-мне)
 
-![](images/IMG_9822.jpg)
+![](https://github.com/PasaOpasen/PasaOpasen.github.io/blob/master/images/IMG_9822.JPG)
 
-[Другие мои фото](https://github.com/PasaOpasen/PasaOpasen.github.io/tree/master/images)
+[Другие мои фото](https://kavyar.com/9bxmb22aewx6)
 
 ## Сфера интересов
 
