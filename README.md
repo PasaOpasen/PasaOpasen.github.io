@@ -130,7 +130,7 @@
 
 * [Книги по дегенералогии](https://www.litres.ru/demetriy-paskal/) (о вырождении в человеческом обществе)
 
-* [Публикации **RPubs**](https://rpubs.com/DemetryPascal/) (включая магистерскую диссертацию по регрессионным моделями)
+* [Публикации **RPubs**](https://rpubs.com/DemetryPascal/) (включая магистерскую диссертацию по регрессионным моделями в пауэрлифтинге)
 
 * [Диплом бакалавра](https://github.com/PasaOpasen/Old_Math_Projects/raw/master/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.pdf) (мат. физика и численная математика)
 
