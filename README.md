@@ -142,7 +142,7 @@
 
 **Gmail**: qtckpuhdsa@gmail.com
 
-**Telegram**: *@PasaOpasen* / *@DimaAnalPunisher*
+**Telegram**: *@PasaOpasen* / *@D_MANtion*
 
 **GitHub**: https://github.com/PasaOpasen
 
