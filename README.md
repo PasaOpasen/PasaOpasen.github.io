@@ -14,8 +14,6 @@
 
 ![](https://github.com/PasaOpasen/PasaOpasen.github.io/blob/master/images/IMG_9822.JPG)
 
-[Другие мои фото](https://kavyar.com/9bxmb22aewx6)
-
 ## Сфера интересов и подробнее о себе
 
 * ***Оптимизационные алгоритмы***
@@ -202,5 +200,6 @@ Stepik: https://stepik.org/users/131443167
 * Победил коронавирус дважды
 * Веган
 
+[Другие мои фото](https://kavyar.com/9bxmb22aewx6)
 
 
