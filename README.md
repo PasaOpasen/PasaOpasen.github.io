@@ -81,7 +81,7 @@
 
 * несколько раз участвовал в хакатонах и [соревнованиях на Kaggle](https://www.kaggle.com/demetrypascal/competitions)
 
-* достаточно часто читаю книги O'Relly и Packt
+* достаточно часто читаю книги O'Reilly и Packt
 
 * прошёл довольно много курсов, их можно посмотреть в конце [моего основного резюме](https://krasnodar.hh.ru/resume/5bf5163aff08107dd00039ed1f343257374837) или [профиля LinkedIn](https://www.linkedin.com/in/dmitry-pasko-5bb57219b/) или [в этой папке](https://github.com/PasaOpasen/PasaOpasen.github.io/tree/master/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%B7%D0%B0%20%D0%BA%D1%83%D1%80%D1%81%D1%8B) (самые основные)
 
