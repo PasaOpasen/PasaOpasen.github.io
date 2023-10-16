@@ -34,7 +34,7 @@
 * ***Развёртываение, контейнеризация, автоматизация***
   * Богатый опыт в **Docker**, **Compose**
   * Хорошее знание **Linux**, **Bash**, большой опыт с RedHat системами, также есть опыт с Astra Linux
-  * Умеренный опыт с **GitHub Actions**/**Jenkins**/**Ansible**
+  * Уверенное владение **GitHub Actions**/**Jenkins**/**Ansible**
   * Есть опыт с Kubernetes
 * ***Анализ данных + машинное обучение*** (R / Python), [Kaggle Expert](https://www.kaggle.com/demetrypascal), особый упор делаю на 
   * предобработку данных / конструирование признаков
