@@ -65,9 +65,7 @@
 
 * владею **Markdown** и **LaTeX** 
 
-* знаком с JavaScript, TypeScript, C++, Java, D, Delphi
-
-* знаком с Excel, Mathcad, Ai
+* знаком с JavaScript, TypeScript, C++, Java, D, Delphi, Excel, Mathcad, Ai
 
 * хорошо знаком с Word, VS / VS Code, RStudio, Spyder, PyCharm
 
