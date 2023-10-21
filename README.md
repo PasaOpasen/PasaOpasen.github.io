@@ -33,8 +33,8 @@
   * реализации на более низкоуровневых языках (или **Cython** в случае с Python).
 * ***Развёртывание, контейнеризация, автоматизация***
   * Богатый опыт в **Docker**, **Compose**
-  * Хорошее знание **Linux**, **Bash**, большой опыт с RedHat системами, также есть опыт с Astra Linux
-  * Уверенное владение **GitHub Actions**/**Jenkins**/**Ansible**
+  * Хорошее знание **Linux**, **Bash**, большой опыт с RedHat системами, есть опыт с Astra Linux
+  * Уверенное владение **Ansible**, **Jenkins**, **GitHub Actions**
   * Есть опыт с Kubernetes
 * ***Анализ данных + машинное обучение*** (R / Python), [Kaggle Expert](https://www.kaggle.com/demetrypascal), особый упор делаю на 
   * предобработку данных / конструирование признаков
@@ -47,9 +47,9 @@
 
 Дополнительно:
 
-* **senior Python** (очень активно использую с начала 2020-го, хорошо знаю numpy, pandas, matplotlib, sklearn, gensim, sympy, numba, telebot), владею Jupyter, Cython и всё такое прочее; с Django и Flask более чем знаком, но почти не занимаюсь бекэндом
+* **senior Python** (очень активно использую Python3.8 с начала 2020-го, хорошо знаю numpy, pandas, matplotlib, sklearn, gensim, sympy, numba, telebot), владею Jupyter, Cython и всё такое прочее; с Django и Flask более чем знаком, но почти не занимаюсь бекэндом
 
-* **бывший senior R** (активно использовал R c середины 2019-го по начало 2021-го, владею tidyverse, data.table, ggvis, plotly, rattle, Rcmdr, R Markdown), есть опыт с R Shiny, Rcp
+* **бывший senior R** (активно использовал R c середины 2019-го по начало 2021-го, владею tidyverse, data.table, ggvis, plotly, rattle, Rcmdr, R Markdown), есть опыт с R Shiny, Rcpp
 
 * **бывший senior C#** (работал с C# 6-7 с начала 2017-го по 2020й, прекрасно знаю ООП, ФП, LINQ, дженерики, коллекции, события, асинхронность, параллелизм, контракты, сборку мусора, MathNet Numerics, NUnit, богатый опыт работы с WinForms, есть опыт WPF, хорошо знаю .NET Framework), знаком с F#, функциональное программирование щёлкаю на раз-два
 
@@ -57,19 +57,17 @@
 
 * отлично знаю **Git**
 
-* Умею писать не слишком сложные desktop-приложения, Telegram ботов
+* умею писать не слишком сложные desktop-приложения под Windows, Telegram ботов
 
-* **высшая математика** (стохастическая оптимизация, моделирование, сложные системы, комбинаторные алгоритмы, генетические алгоритмы, численные методы, статистика, мат. анализ, алгебра)
+* владею **Markdown**, **LaTeX**
 
-* **машинное обучение** (caret, keras, h2o, sklearn)
-
-* владею **Markdown** и **LaTeX** 
-
-* знаком с JavaScript, TypeScript, C++, Java, D, Delphi, Excel, Mathcad, Ai
+* ранее активно использовал C++, D, Delphi, Java, JavaScript, Excel, Mathcad, Ai
 
 * хорошо знаком с Word, VS / VS Code, RStudio, Spyder, PyCharm
 
-* окончил *"Факультет математики и компьютерных наук"* (КубГУ) в 2019-м году с красным дипломом (бакалавр) и с красным в 2021-м (магистр)
+* **высшая математика** (стохастическая оптимизация, моделирование, сложные системы, комбинаторные алгоритмы, генетические алгоритмы, численные методы, статистика, мат. анализ, алгебра), окончил *"Факультет математики и компьютерных наук"* (КубГУ) в 2019-м году с красным дипломом (бакалавр) и с красным в 2021-м (магистр)
+
+* **практическое машинное обучение** (caret, keras, h2o, sklearn)
 
 * написал несколько [книг](https://www.litres.ru/demetriy-paskal/) (социология/художественное)
 
@@ -83,14 +81,14 @@
 
 * прошёл довольно много курсов, их можно посмотреть в конце [моего основного резюме](https://krasnodar.hh.ru/resume/5bf5163aff08107dd00039ed1f343257374837) или [профиля LinkedIn](https://www.linkedin.com/in/dmitry-pasko-5bb57219b/) или [в этой папке](https://github.com/PasaOpasen/PasaOpasen.github.io/tree/master/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B%20%D0%B7%D0%B0%20%D0%BA%D1%83%D1%80%D1%81%D1%8B) (самые основные)
 
-Больше всего хочу участвовать в технологическом развитии человечества: создавать алгоритмы для решения реальных задач, развивать и внедрять искусственный интеллект и делать его доступнее для людей.
+Больше всего хочу участвовать в технологическом развитии человечества: создавать алгоритмы для решения реальных задач, развивать и внедрять искусственный интеллект и делать его доступнее для людей. Люблю автоматизировать чужую работу.
 
 Что я не люблю делать или чего вообще не делаю:
 * Backend/Desktop - только по мелочи и если сильно надо
 * Frontend - ни за что никогда
 * Менеджмент - очень не люблю вообще общаться с людьми, компьютерами руковожу намного эффективнее
 
-## МОИ ОСНОВНЫЕ (открытые) ПРОЕКТЫ
+## Мои основные (открытые) проекты
 
 1. [пятикнижие о процессах вырождения в человеческом обществе](https://github.com/PasaOpasen/RomanDisease)
 
@@ -123,7 +121,7 @@
   * [полезные функции для python](https://github.com/PasaOpasen/true-false-python) [![Downloads](https://pepy.tech/badge/truefalsepython)](https://pepy.tech/project/truefalsepython) [![Downloads](https://pepy.tech/badge/truefalsepython/month)](https://pepy.tech/project/truefalsepython) [![Downloads](https://pepy.tech/badge/truefalsepython/week)](https://pepy.tech/project/truefalsepython)
   * [пайплайновый токенизатор с разными стеммерами и лемматизаторами, основанный на моей идее разбиения токенов](https://github.com/PasaOpasen/Stem-Lem-Pipeline) [![Downloads](https://pepy.tech/badge/stemlempipe)](https://pepy.tech/project/stemlempipe) [![Downloads](https://pepy.tech/badge/stemlempipe/month)](https://pepy.tech/project/stemlempipe) [![Downloads](https://pepy.tech/badge/stemlempipe/week)](https://pepy.tech/project/stemlempipe)
 
-## ЗАКРЫТЫЕ ПРОЕКТЫ
+## Закрытые проекты
 
 * с сентября 2020-го разрабатываю AI-алгоритмы и решаю смежные задачи в команде [Nutrient Planner](https://nplanner.ru/o-nas/)
 * c июля 2021-го выполняю множество задач в [DreamDocs](https://dreamdocs.ru/)
