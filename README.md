@@ -115,6 +115,14 @@
 
 1. [модуль для обнаружения профессиональных/мягких навыков из резюме/вакансии](https://github.com/PasaOpasen/ContentDetector) в рамках **Хакатона Труда** (лето 2020). Через месяц развивал [аналогичную модель](https://github.com/PasaOpasen/SberOnline-AK) в рамках соревнования **Sber Online**.
 
+1. много вспомогательных CLI утилит и PyPI пакетов:
+  * https://github.com/PasaOpasen/toml-union
+  * https://github.com/PasaOpasen/rectangles-text-view-util
+  * https://github.com/PasaOpasen/files-equality-checker
+  * https://github.com/PasaOpasen/py-env-parser
+  * https://github.com/PasaOpasen/markdown-table-generator
+  * https://github.com/PasaOpasen/markdown-combiner
+
 1. [музыкальные произведения на синтезаторе](https://gitlab.com/PasaOpasen/pasa-opasen-music/-/tree/master/Piano) и [реп](https://gitlab.com/PasaOpasen/pasa-opasen-music/-/tree/master/Shit%20rap)
 
 1. Другие пакеты:
